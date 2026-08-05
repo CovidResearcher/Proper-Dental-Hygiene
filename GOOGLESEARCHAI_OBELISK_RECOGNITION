@@ -1,0 +1,33 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+\title{Biological Profile: Obelisk Elements in the Oral Microbiome}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section*{Key Biological Concepts}
+
+\begin{itemize}[leftmargin=*, itemsep=0.8em]
+    \item \textbf{Independent Genomes} \\
+    An Obelisk is a self-contained, circular loop of RNA. It acts as its own master blueprint, much like a tiny virus or a plant viroid. It does not take orders from cellular mRNA.
+
+    \item \textbf{Functional Similarity to mRNA (Oblin Production)} \\
+    Instead of receiving instructions from mRNA, the Obelisk itself contains Open Reading Frames (ORFs). The host bacterium's cellular machinery reads the Obelisk's sequence directly to produce a completely novel family of proteins called \textit{Oblins}. In this sense, the Obelisk functions similarly to an mRNA molecule, dictating protein synthesis within the host cell.
+
+    \item \textbf{Host Enzyme Reliance} \\
+    To replicate and make copies of themselves, Obelisks rely on the host bacterium's RNA polymerase enzymes (the machinery that physically builds RNA strands). They hijack these cellular tools to duplicate their own circular structures, entirely bypassing the host cell's standard mRNA pathways.
+\end{itemize}
+
+\section*{Relevance to Your Protocol}
+Because Obelisks function as independent, self-replicating genetic elements inside bacteria like \textit{Streptococcus sanguinis}, they cannot be manipulated or ``instructed'' by human or bacterial mRNA. They are autonomous passengers. 
+
+The only known way to reduce or manipulate their presence in the oral cavity is through the exact method outlined in the \textbf{Multi-Pass Mouth Protocol}: mechanically disrupting and chemically eliminating the host bacteria biofilms that protect and house them.
+
+\end{document}
